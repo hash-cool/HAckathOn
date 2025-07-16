@@ -1,4 +1,4 @@
-# com.coursera - Major Project
+# com.coursera - Coursera Project
 
 This repository contains a Selenium-based automation framework for testing web applications. The project is built using Java, TestNG, Maven, and other essential libraries. It includes features like test reporting, logging, and data-driven testing.
 
