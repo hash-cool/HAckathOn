@@ -1,0 +1,82 @@
+2025-07-15 16:22:54 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:34:18 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:41:16 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:52:50 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:56:10 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:56:34 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 16:58:41 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:00:54 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:03:03 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:04:55 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:05:54 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:06:43 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:06:43 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:06:43 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:07:10 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:08:39 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:09:24 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:09:59 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:09:59 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:09:59 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:10:21 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:13:18 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:13:57 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:14:35 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:14:35 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:14:35 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:14:55 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:19:47 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:20:34 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:21:29 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:21:29 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:21:29 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:21:51 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:23:59 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:24:42 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:25:47 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:25:47 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:25:47 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:26:06 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:30:25 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:30:43 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:31:26 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:32:00 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:32:00 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:32:00 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:32:21 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:35:26 INFO  TC_001_FirstTestCase:23 - ***** Starting TC001 *****
+2025-07-15 17:36:38 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:36:44 ERROR TC_002_SecondTestCase:53 - Test failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0abd6c3d0215bba3fb0c6193e58d37c4, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2408458\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62168/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0abd6c3d0215bba3fb0c6193e58d37c4
+2025-07-15 17:36:44 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:37:08 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:37:36 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:37:36 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:37:36 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:37:54 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:39:46 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:40:11 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:40:11 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:40:11 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:40:29 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:41:43 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:41:43 ERROR TC_002_SecondTestCase:53 - Test failed: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [205219b4996e822a6804a782f992dbd8, findElement {using=xpath, value=//div[@role='navigation']//li[3]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\2408458\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63777}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63777/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 205219b4996e822a6804a782f992dbd8
+2025-07-15 17:41:43 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:41:54 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:42:26 INFO  TC_002_SecondTestCase:48 - ***** TC Passed *****
+2025-07-15 17:42:26 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
+2025-07-15 17:42:26 INFO  TC_002_SecondTestCase:21 - ***** Starting TC002 *****
+2025-07-15 17:42:44 INFO  TC_002_SecondTestCase:58 - ***** Finished TC *****
